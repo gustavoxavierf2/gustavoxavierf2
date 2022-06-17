@@ -9,7 +9,7 @@
   <img align="center" alt="gu-java" height="150" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" />
   <img align="center" alt="gu-html" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
   <img align="center" alt="gu-css" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" /> 
-  <img align="right" alt="Rafa-pic" width="25%" src="https://user-images.githubusercontent.com/83915382/174345076-03ec83a5-a28f-4a44-9815-2954789d8a89.jpg">
+  <img align="right" alt="gu-pic" width="25%" src="https://user-images.githubusercontent.com/83915382/174345076-03ec83a5-a28f-4a44-9815-2954789d8a89.jpg">
 </div>
   
   ##
