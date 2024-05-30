@@ -1,11 +1,11 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-Me chamo Gustavo Xavier. Sou programador com foco em Java e Python. Tenho um ano de experiência trabalhando na Secretaria de Saúde. Atualmente, estou [trabalhando/estudando] para aprimorar minhas habilidades em desenvolvimento de software.
+Me chamo Gustavo Xavier. Sou programador com foco em <strong>Java e Python.</strong> Tenho um ano de experiência trabalhando na Secretaria de Saúde. Atualmente, estou [trabalhando/estudando] para aprimorar minhas habilidades em desenvolvimento de software.
 </p>
 
 <p align="left">
-  Linguagens: JAVA | PYTHON.  
+  Linguagens: <strong>JAVA | PYTHON.</strong>
 </p>
 
 <p align="left">
