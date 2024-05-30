@@ -6,11 +6,11 @@
 </p>
 
 <p align="left">
-  Linguagens: **Coloque as linguagens que você desenvolve.**
+  Linguagens: JAVA | PYTHON.  
 </p>
 
 <p align="left">
-  Ferramentas: **Coloque as suas ferramentas de trabalho.**
+  Ferramentas: **SPRING BOOT | FLASK.**
 </p>
 
 <p align="left">
